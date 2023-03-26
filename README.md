@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salutation ! Je suis actuellement en Master pour devenir ingénieur blockchain. Passionné par la technologie et les systèmes décentralisés, je cherche à améliorer constamment mes compétences pour façonner l'avenir de la finance numérique.
+Salutation ! Je suis actuellement en Master pour devenir ingénieur blockchain. Passionné par la technologie et les systèmes décentralisés, je cherche à améliorer constamment mes compétences pour façonner l'avenir de demain.
 
 
 ## 🌐 Socials:
