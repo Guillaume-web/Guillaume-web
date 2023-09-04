@@ -1,7 +1,3 @@
-# 💫 About Me:
-Salutation ! Je suis actuellement en Master pour devenir ingénieur blockchain. Passionné par la technologie et les systèmes décentralisés, je cherche à améliorer constamment mes compétences pour façonner l'avenir de demain.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guillaume-massin/) 
 
